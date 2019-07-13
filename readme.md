@@ -1,1 +1,1 @@
-primul meu proj
+primul meu project
